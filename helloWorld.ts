@@ -1,6 +1,8 @@
+export {};
+
 console.log("Hello World");
 
-function helloGenerator(string : String) {
+function helloGenerator(string: String) {
   console.log("Hello" + string);
 };
 
